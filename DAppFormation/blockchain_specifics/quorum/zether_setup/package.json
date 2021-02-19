@@ -1,0 +1,16 @@
+{
+  "name": "@anonymous-zether/protocol",
+  "version": "0.1.0",
+  "description": "",
+  "main": "./lib",
+  "dependencies": {
+    "bn.js": "^5.1.1",
+    "elliptic": "^6.5.1",
+    "truffle": "^5.1.0",
+    "web3": "^1.2.4"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "openzeppelin-solidity": "^2.2.0"
+  }
+}

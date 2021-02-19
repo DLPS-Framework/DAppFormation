@@ -1,0 +1,17 @@
+{
+  "name": "sawtooth_client",
+  "version": "1.0.0",
+  "main": "benchmarking.js",
+  "author": "Johannes Sedlmeir",
+  "license": "ISC",
+  "description": "Client stuff for benchmarking Sawtooth transaction processor",
+  "dependencies": {
+    "cbor": "^4.2.1",
+    "convert-array-to-csv": "^1.0.9",
+    "crypto": "^1.0.1",
+    "js-base64": "^2.5.1",
+    "node-fetch": "^2.6.0",
+    "sawtooth-sdk": "^1.0.5",
+    "stdio": "^0.2.7"
+  }
+}

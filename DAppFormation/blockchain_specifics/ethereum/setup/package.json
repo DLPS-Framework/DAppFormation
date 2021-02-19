@@ -1,0 +1,11 @@
+{
+  "name": "truffle",
+  "version": "1.0.0",
+  "dependencies": {
+    "bignumber.js": "^9.0.0",
+    "truffle-contract": "^3.0.0",
+    "web3": "^0.20.6",
+    "convert-array-to-csv": "^1.0.8",
+    "stdio": "^0.2.7"
+  }
+}

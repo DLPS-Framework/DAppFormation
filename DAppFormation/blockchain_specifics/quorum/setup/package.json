@@ -1,0 +1,10 @@
+{
+  "name": "truffle",
+  "version": "1.0.0",
+  "dependencies": {
+    "truffle-contract": "^3.0.0",
+    "web3": "^1.2.4",
+    "convert-array-to-csv": "^1.0.8",
+    "stdio": "^0.2.7"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "leveldb_client",
+  "version": "1.0.0",
+  "main": "benchmarking.js",
+  "author": "ChainLab",
+  "license": "ISC",
+  "description": "Client stuff for benchmarking a single LevelDB",
+  "dependencies": {
+    "convert-array-to-csv": "^1.0.9",
+    "node-fetch": "^2.6.0",
+    "stdio": "^0.2.7",
+    "async": "^3.1.0",
+    "agentkeepalive": "^4.1.0"
+  }
+}
